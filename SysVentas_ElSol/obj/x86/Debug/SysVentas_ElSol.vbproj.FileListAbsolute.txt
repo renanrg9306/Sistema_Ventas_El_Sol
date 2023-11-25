@@ -1,0 +1,70 @@
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\bin\Debug\SysVentas_ElSol.exe
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\bin\Debug\SysVentas_ElSol.pdb
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\bin\Debug\SysVentas_ElSol.xml
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.Busqueda_ProLiquido.resources
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.Busqueda_Repuesto.resources
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.Busqueda_Responsable.resources
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.FrmClientes.resources
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.frmLlantas.resources
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.FrmProductoLiq.resources
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.FrmProveedores.resources
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.frmRepuestos.resources
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.FrmResponsable.resources
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.FrmServicios.resources
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.Resources.resources
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.vbproj.GenerateResource.Cache
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.exe
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.xml
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.pdb
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.frmBusqueda_Proveedor.resources
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.frmMenu_Principal.resources
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.frmBienvenida.resources
+C:\Users\JoseAntonio\Desktop\SysVentas_ElSol\SysVentas_ElSol\bin\Debug\SysVentas_ElSol.exe.config
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\bin\Debug\SysVentas_ElSol.exe.config
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.exe
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.xml
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.pdb
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\bin\Debug\SysVentas_ElSol.exe
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\bin\Debug\SysVentas_ElSol.pdb
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\bin\Debug\SysVentas_ElSol.xml
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.Busqueda_ProLiquido.resources
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.Busqueda_Repuesto.resources
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.Busqueda_Responsable.resources
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.frmBienvenida.resources
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.frmBusqueda_Proveedor.resources
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.FrmClientes.resources
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.frmLlantas.resources
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.FrmProductoLiq.resources
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.FrmProveedores.resources
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.frmRepuestos.resources
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.FrmResponsable.resources
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.FrmServicios.resources
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.frmMenu_Principal.resources
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.Resources.resources
+C:\Users\Renán Rosales\Desktop\Defensa BD\Defensa\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.vbproj.GenerateResource.Cache
+C:\Users\Renán Rosales\Desktop\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\bin\Debug\SysVentas_ElSol.exe.config
+C:\Users\Renán Rosales\Desktop\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.exe
+C:\Users\Renán Rosales\Desktop\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.xml
+C:\Users\Renán Rosales\Desktop\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.pdb
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\bin\Debug\SysVentas_ElSol.exe.config
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.exe
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.xml
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.pdb
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\bin\Debug\SysVentas_ElSol.exe
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\bin\Debug\SysVentas_ElSol.pdb
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\bin\Debug\SysVentas_ElSol.xml
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.Busqueda_ProLiquido.resources
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.Busqueda_Repuesto.resources
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.Busqueda_Responsable.resources
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.frmBienvenida.resources
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.frmBusqueda_Proveedor.resources
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.FrmClientes.resources
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.frmLlantas.resources
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.FrmProductoLiq.resources
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.FrmProveedores.resources
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.frmRepuestos.resources
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.FrmResponsable.resources
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.FrmServicios.resources
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.frmMenu_Principal.resources
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.Resources.resources
+E:\UNI\BASES DE DATOS\Defensa Bases de datos\Defensa Bases de datos\SysVentas_ElSol\SysVentas_ElSol\SysVentas_ElSol\obj\x86\Debug\SysVentas_ElSol.vbproj.GenerateResource.Cache
